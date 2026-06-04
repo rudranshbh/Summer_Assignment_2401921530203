@@ -34,8 +34,6 @@ Summer_Assignment_2401921530203/
 │   ├── Day_3/
 │   ├── Day_4/
 │   ├── Day_5/
-│   ├── Day_6/
-│   ├── Day_7/
 │   └── OOPS/
 │
 ├── Week_2/
@@ -44,8 +42,6 @@ Summer_Assignment_2401921530203/
 │   ├── Day_3/
 │   ├── Day_4/
 │   ├── Day_5/
-│   ├── Day_6/
-│   ├── Day_7/
 │   └── OOPS/
 │
 ├── Week_3/
@@ -54,8 +50,6 @@ Summer_Assignment_2401921530203/
 │   ├── Day_3/
 │   ├── Day_4/
 │   ├── Day_5/
-│   ├── Day_6/
-│   ├── Day_7/
 │   └── OOPS/
 │
 └── Week_4/
@@ -64,8 +58,6 @@ Summer_Assignment_2401921530203/
     ├── Day_3/
     ├── Day_4/
     ├── Day_5/
-    ├── Day_6/
-    ├── Day_7/
     └── OOPS/
 ```
 
