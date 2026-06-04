@@ -27,6 +27,7 @@ To keep things tidy, this repository is organized by week and day. You'll find m
 
 ```text
 Summer_Assignment_2401921530203/
+│
 ├── Week_1/
 │   ├── Day_1/
 │   ├── Day_2/
