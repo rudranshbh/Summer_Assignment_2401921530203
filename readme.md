@@ -25,23 +25,29 @@ Here are the core rules for this assignment.
 ## Repository Structure 
 To keep things tidy, this repository is organized by week and day. You'll find my daily LeetCode solutions and weekly OOPS projects neatly tucked away.
 
-Summer_Assignment_2401921530203/
-├── Week_1/
-│ ├── Day_1/
-│ ├── ...
-│ └── OOPS/
-├── Week_2/
-│ ├── Day_1/
-│ ├── ...
-│ └── OOPS/
-├── Week_3/
-│ ├── Day_1/
-│ ├── ...
-│ └── OOPS/
-└── Week_4/
-├── Day_1/
-├── ...
-└── OOPS/
+```text
+Summer_Assignment_2401921530203
+│
+├── Week_1
+│   ├── Day_1
+│   ├── ...
+│   └── OOPS
+│
+├── Week_2
+│   ├── Day_1
+│   ├── ...
+│   └── OOPS
+│
+├── Week_3
+│   ├── Day_1
+│   ├── ...
+│   └── OOPS
+│
+└── Week_4
+    ├── Day_1
+    ├── ...
+    └── OOPS
+```
 
 ## How I'm Evaluated 
 My work will be assessed on:
@@ -55,5 +61,3 @@ My work will be assessed on:
 ---
 
 Let's code! 
-
-![Summer Assignment Clipart Footer](your-image-url-or-path.png)
