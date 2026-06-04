@@ -26,27 +26,46 @@ Here are the core rules for this assignment.
 To keep things tidy, this repository is organized by week and day. You'll find my daily LeetCode solutions and weekly OOPS projects neatly tucked away.
 
 ```text
-Summer_Assignment_2401921530203
+Summer_Assignment_2401921530203/
+├── Week_1/
+│   ├── Day_1/
+│   ├── Day_2/
+│   ├── Day_3/
+│   ├── Day_4/
+│   ├── Day_5/
+│   ├── Day_6/
+│   ├── Day_7/
+│   └── OOPS/
 │
-├── Week_1
-│   ├── Day_1
-│   ├── ...
-│   └── OOPS
+├── Week_2/
+│   ├── Day_1/
+│   ├── Day_2/
+│   ├── Day_3/
+│   ├── Day_4/
+│   ├── Day_5/
+│   ├── Day_6/
+│   ├── Day_7/
+│   └── OOPS/
 │
-├── Week_2
-│   ├── Day_1
-│   ├── ...
-│   └── OOPS
+├── Week_3/
+│   ├── Day_1/
+│   ├── Day_2/
+│   ├── Day_3/
+│   ├── Day_4/
+│   ├── Day_5/
+│   ├── Day_6/
+│   ├── Day_7/
+│   └── OOPS/
 │
-├── Week_3
-│   ├── Day_1
-│   ├── ...
-│   └── OOPS
-│
-└── Week_4
-    ├── Day_1
-    ├── ...
-    └── OOPS
+└── Week_4/
+    ├── Day_1/
+    ├── Day_2/
+    ├── Day_3/
+    ├── Day_4/
+    ├── Day_5/
+    ├── Day_6/
+    ├── Day_7/
+    └── OOPS/
 ```
 
 ## How I'm Evaluated 
