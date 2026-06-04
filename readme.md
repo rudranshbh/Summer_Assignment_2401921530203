@@ -5,7 +5,6 @@
 Welcome to my 4-Week DSA & OOPS Summer Assignment!
 
 ## About Me 
-Rudransh Bhardwaj is a student in the CSE (AIML) branch, undertaking a programming assignment.
 
 **Rudransh Bhardwaj**
 *   **Batch:** 2028
@@ -25,3 +24,36 @@ Here are the core rules for this assignment.
 
 ## Repository Structure 
 To keep things tidy, this repository is organized by week and day. You'll find my daily LeetCode solutions and weekly OOPS projects neatly tucked away.
+
+Summer_Assignment_2401921530203/
+├── Week_1/
+│ ├── Day_1/
+│ ├── ...
+│ └── OOPS/
+├── Week_2/
+│ ├── Day_1/
+│ ├── ...
+│ └── OOPS/
+├── Week_3/
+│ ├── Day_1/
+│ ├── ...
+│ └── OOPS/
+└── Week_4/
+├── Day_1/
+├── ...
+└── OOPS/
+
+## How I'm Evaluated 
+My work will be assessed on:
+
+*   **Correctness & Approach:** Are the solutions right and well-thought-out?
+*   **Efficiency:** How good are the time and space complexities?
+*   **Code Quality:** Is the code clean, readable, and well-structured?
+*   **Consistency:** Am I submitting regularly and on time?
+*   **Organization:** Is this repository neat and easy to navigate?
+
+---
+
+Let's code! 
+
+![Summer Assignment Clipart Footer](your-image-url-or-path.png)
